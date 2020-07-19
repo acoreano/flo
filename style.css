@@ -15,7 +15,7 @@ body {font-family: raleway;font-weight: 400;font-size: 14px;height:100vh;}
 
     .document {position: absolute;top:45%;left:17%;z-index: 99; }
     .folder { 
-    position: absolute;top:45%;left:38%;z-index: 99;
+    position: absolute;top:47%;left:38%;z-index: 99;
     }
 .wrapper {display: flex;flex-direction: row;position: relative;top: 41%;left:0%;}
     .box1 {display: block;
